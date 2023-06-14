@@ -1,0 +1,10 @@
+﻿{
+    "profiles": {
+      "PathManager.UI (Package)": {
+        "commandName": "MsixPackage"
+      },
+      "PathManager.UI (Unpackaged)": {
+        "commandName": "Project"
+      }
+    }
+}
